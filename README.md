@@ -2,6 +2,8 @@
 
 A sweet little zsh theme based off the cloud theme.
 
+![Demo](http://i.imgur.com/XD60dSI.png)
+
 ## Installation
 
 To use this theme, you'll need to add it to your custom themes directory in zsh. To get to your custom zsh directory, type this in your zsh prompt:
